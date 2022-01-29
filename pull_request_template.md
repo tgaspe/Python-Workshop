@@ -1,4 +1,4 @@
-## Type 
-- [] New feature
-- [] Refactoring
+### Type 
+- [ ] New feature
+- [ ] Refactoring
 - 
